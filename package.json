@@ -1,0 +1,16 @@
+{
+  "name": "ultimo-desafio",
+  "version": "0.0.1",
+  "description": "o ultimo desafio de testes",
+  "main": "index.js",
+  "scripts": {
+    "cypres:open": "./node_modules/.bin/cypress open"
+  },
+  "author": "yasmin",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.0",
+    "faker": "^5.5.3",
+    "joi": "^17.4.2"
+  }
+}
